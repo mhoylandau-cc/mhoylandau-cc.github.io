@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2"> <NetworkLink>
+<open>1</open>
+<name>DensityExample</name>
+<LookAt>
+<longitude>146.59897279363275</longitude>
+<latitude>-29.816500167380326</latitude>
+<range>1080180.1182067154</range>
+</LookAt>
+<Link>
+<viewRefreshMode>onStop</viewRefreshMode>
+<viewRefreshTime>2</viewRefreshTime>
+<href>http://sesgis.ses.nsw.gov.au:6080/arcgis/services/public/DensityExample/MapServer/KmlServer?Composite=true&amp;LayerIDs=0</href>
+<viewFormat>BBOX=[bboxWest],[bboxSouth],[bboxEast],[bboxNorth];CAMERA=[lookatLon],[lookatLat],[lookatRange],[lookatTilt],[lookatHeading];VIEW=[horizFov],[vertFov],[horizPixels],[vertPixels],[terrainEnabled]</viewFormat>
+</Link>
+</NetworkLink>
+</kml>
